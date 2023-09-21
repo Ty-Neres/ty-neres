@@ -2,8 +2,6 @@
 
 🌱 Estou começando minha jornada no mundo da programação e do desenvolvimento de software.
 
-🎓 Cursando 3º Semestre em Ciência da Computação.
-
 💡 Aprendendo:
 - Desenvolvimento web básico
 - Linguagens de programação como Python e JavaScript
