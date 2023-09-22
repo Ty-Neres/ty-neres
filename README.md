@@ -1,6 +1,6 @@
 ### Opa! tudo bem, me chamo Tiago Douglas 
 
-🌱 Estou começando minha jornada no mundo da programação e do desenvolvimento de software.
+🌱 Estou começando minha jornada no mundo da programação.
 
 💡 Aprendendo:
 - Desenvolvimento web básico
