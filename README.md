@@ -6,6 +6,7 @@
 - Desenvolvimento web básico
 - Linguagens de programação como Python e JavaScript
 - Banco de dados
+- Pacote Office
 
 🤓 Estou aqui para aprender, compartilhar e crescer como desenvolvedor. 
 
