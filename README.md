@@ -4,17 +4,16 @@
 
 💡 Aprendendo:
 - Desenvolvimento web básico
-- Linguagens de programação como Python e JavaScript
-- Banco de dados
-- Pacote Office
+- Linguagens de programação JavaScript
 
 🤓 Estou aqui para aprender, compartilhar e crescer como desenvolvedor. 
 
 <div style="display: inline_block"><br>
   <img align="center" alt="ners-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="ners-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="ners-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="ners-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="ners-JS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">            
+       
+          
 </div>
 
 ##
