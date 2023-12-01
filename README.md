@@ -11,9 +11,9 @@
 ##
 <div align="center">
   <a href="https://github.com/Ty-Neres">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=TiagoDouglas&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TiagoDouglas&layout=donut&langs_count=6&theme=github_dark&hide_border=true"/>
-   <img height="180em" src="https://github-readme-streak-stats.herokuapp.com?user=TiagoDouglas&theme=github_dark_blue&hide_border=true&locale=pt_BR&date_format=j%20M%5B%20Y%5D&card_width=490)](https://git.io/streak-stats"/>  
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Ty-Neres&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ty-Neres&layout=donut&langs_count=6&theme=github_dark&hide_border=true"/>
+   <img height="180em" src="https://github-readme-streak-stats.herokuapp.com?user=Ty-Neres&theme=github_dark_blue&hide_border=true&locale=pt_BR&date_format=j%20M%5B%20Y%5D&card_width=490)](https://git.io/streak-stats"/>  
 </div>
 
     
