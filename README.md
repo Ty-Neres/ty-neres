@@ -2,12 +2,11 @@
 
 🌱 Estou começando minha jornada no mundo da programação.
 
-💡 Aprendendo:
-- Desenvolvimento Web
-- Desenvolvimento Android
-- Linguagens de programação JavaScript
 
-🤓 Estou aqui para aprender, compartilhar e crescer como desenvolvedor.
+- 🎓 Cursando Ciência da Computação.
+- 📌 Explorando o mundo da tecnologia.
+  
+💻🤓 Estou aqui para aprender, compartilhar e crescer como desenvolvedor.
 ##
 <div align="center">
   <a href="https://github.com/Ty-Neres">
